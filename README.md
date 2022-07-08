@@ -1,6 +1,6 @@
 ### Olá, saiba um pouco sobre mim 😁
 
-- 😄 Buscando me tornar um desenvolvedor Full Stack através do Bootcamp da Driven Education, com formação no início de 2023
+- 😄 Buscando me tornar um desenvolvedor Full Stack através do Bootcamp da Driven Education, com formação planejada para o início de 2023
 - 📚 Tenho conhecimento em HTML, Css e JS
 - 💬 Atualmente estudando React
 - ⚡ Aberto a novas tecnologias e novos desafios
