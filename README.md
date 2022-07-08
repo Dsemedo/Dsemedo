@@ -2,7 +2,7 @@
 
 ### 🙋‍♂️ Curiosidades
 
-- 😄 Buscando me tornar um desenvolvedor Full Stack através do Bootcamp da Driven Education, com formação planejada para o início de 2023
+- 😄 Buscando me tornar um desenvolvedor Full Stack através do Bootcamp da [Driven], com formação planejada para o início de 2023
 - 💬 Atualmente estudando React
 - ⚡ Aberto a novas tecnologias e novos desafios
 - 😏 Buscando melhorar e aprender mais todos os dias
@@ -19,3 +19,5 @@
 <img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsemedo&layout=compact&langs_count=4" />
 
 </details>
+
+[Driven]: https://www.linkedin.com/school/driven-education
