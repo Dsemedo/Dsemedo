@@ -3,7 +3,6 @@
 ### 🙋‍♂️ Curiosidades
 
 - 😄 Buscando me tornar um desenvolvedor Full Stack através do Bootcamp da [Driven], com formação planejada para o início de 2023
-- 💬 Atualmente estudando React
 - ⚡ Aberto a novas tecnologias e novos desafios
 - 😏 Buscando melhorar e aprender mais todos os dias
 
