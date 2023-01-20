@@ -1,8 +1,8 @@
-### Hi, I'm Douglas!
+### Hi, I'm Douglas! :wave:
 
-- Sports and technology lover 
-- Latest individual project [Shortly-API]
-- Currently studying Architeture
+- Sports and technology lover :soccer: :computer:
+- Latest individual project [Shortly-API] :eyes:
+- Currently studying Architeture :books:
 
 ### 💻 Tools and languages
 
