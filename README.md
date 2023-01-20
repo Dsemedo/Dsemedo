@@ -1,23 +1,18 @@
-### Olá, sou o Douglas!
+### Hi, I'm Douglas!
 
-- 😄 Buscando me tornar um desenvolvedor Full Stack através do Bootcamp da [Driven], com formação planejada para o início de 2023
-- ⚡ Aberto a novas tecnologias e novos desafios
-- 📚 Atualmente estudando SQL
+- Sports and technology lover 
+- Latest individual project [Shortly-API]
+- Currently studying Architeture
 
-### 💻 Linguagens e ferramentas
+### 💻 Tools and languages
 
-- ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React Badge](https://badges.aleen42.com/src/react.svg)
-![Node Badge](https://badges.aleen42.com/src/node.svg)
-![Visual Studio Code](https://badges.aleen42.com/src/visual_studio_code.svg)
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,html,css,js,react,mongodb,postgres)](https://skillicons.dev)
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+### :iphone: Social medias
 
-<img align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsemedo&layout=compact&langs_count=4" />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-semedo-227905193/)](https://www.linkedin.com/in/douglas-semedo-227905193/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/douglasemedo/)](https://www.instagram.com/douglasemedo/)
 
-</details>
 
 [Driven]: https://www.linkedin.com/school/driven-education
+[Shortly-API]: https://github.com/Dsemedo/projeto17-shortly
