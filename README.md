@@ -1,6 +1,4 @@
-### Olá, saiba um pouco sobre mim 😁
-
-### 🙋‍♂️ Curiosidades
+### Olá, sou o Douglas!
 
 - 😄 Buscando me tornar um desenvolvedor Full Stack através do Bootcamp da [Driven], com formação planejada para o início de 2023
 - ⚡ Aberto a novas tecnologias e novos desafios
