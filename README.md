@@ -8,7 +8,6 @@
 - Sports and technology lover :soccer: :computer:
 - Full Stack Developer in progress at [Driven Education]
 - Latest individual project [Shortly-API] :eyes:
-- Currently studying Architeture/Tests :books:
 
 ### 💻 Tools and languages
 
