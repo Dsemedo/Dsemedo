@@ -7,7 +7,7 @@
 
 ##
 - Sports and technology lover :soccer: :computer:
-- Full Stack Developer in progress at [Driven Education]
+- Full Stack Developer by [Driven Education]
 - Latest individual project [Shortly-API] :eyes:
 
 ### 💻 Tools and languages
